@@ -25,7 +25,7 @@ namespace Корнеева3
             System.Console.WriteLine("Индивидуальный гороскоп для пользователя - " + name  + surname);
             System.Console.WriteLine("Кем вы были в прошлой жизни - " + animal);   
             System.Console.WriteLine("Ваш знак зодиака - "  + zodiac);
-            System.Console.WriteLine("поэтому вы - тонко чувствующая натура");
+            System.Console.WriteLine("поэтому вы - тонко чувствующая натура");gfhgfhgfhgfhgfhgf
 
         }
     }
