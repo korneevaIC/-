@@ -1,0 +1,8 @@
+E:\Корнеева3\Корнеева3\obj\Debug\Корнеева3.csproj.AssemblyReference.cache
+E:\Корнеева3\Корнеева3\obj\Debug\Корнеева3.csproj.SuggestedBindingRedirects.cache
+E:\Корнеева3\Корнеева3\obj\Debug\Корнеева3.csproj.CoreCompileInputs.cache
+E:\Корнеева3\Корнеева3\bin\Debug\Корнеева3.exe.config
+E:\Корнеева3\Корнеева3\bin\Debug\Корнеева3.exe
+E:\Корнеева3\Корнеева3\bin\Debug\Корнеева3.pdb
+E:\Корнеева3\Корнеева3\obj\Debug\Корнеева3.exe
+E:\Корнеева3\Корнеева3\obj\Debug\Корнеева3.pdb
